@@ -108,5 +108,6 @@
 
     // remove elements
     removeElement(doc.getElementById('laterpay-replacement'));
-    removeElements(body.querySelectorAll('.laterpay-under-overlay'));
+    removeElement(doc.querySelector('.js-spiegelplus-obfuscated-intro'));
+    removeElements(doc.querySelectorAll('.laterpay-under-overlay'));
 })(document);
