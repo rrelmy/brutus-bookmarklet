@@ -1,1 +1,1 @@
-!function(t){var r=t.createElement("script");r.async=!0,r.src="https://cdn.rawgit.com/rrelmy/brutus-bookmarklet/master/dist/brutus.js",t.body.appendChild(r)}(document);
+!function(t){var r=t.createElement("script");r.async=!0,r.src="https://cdn.jsdelivr.net/gh/rrelmy/brutus-bookmarklet/dist/brutus.js",t.body.appendChild(r)}(document);
